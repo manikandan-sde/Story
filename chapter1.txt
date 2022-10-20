@@ -1,1 +1,2 @@
-Hey This file is a text file example. This is for testing and learning git, github and version control and practice.
+This is a alien plot branch text. I am here to test how branching work.
+
